@@ -1,0 +1,12 @@
+1978d0bc9fee4e3668a9f449deaedfa9 *DESCRIPTION
+a508644ecfaf17167a0ddc74d40b6419 *NAMESPACE
+553a50bc3d754bde01b3678e102f5a98 *R/colors.r
+95568fb27ba91d20a05f6a2f842e4c29 *R/core.r
+65999422d3714717c609284189734cf9 *man/discrete.color.Rd
+b12bbff9574cabe9bb2668ee1409a2e2 *man/display.xterm.colors.Rd
+8c37b5fb1b2c02766d0c17a954907a59 *man/print.xtermStyle.Rd
+95f384a2b0cc12853aebb791a6c267ee *man/style.Rd
+f86c44ef91a96cb2f4702c8d1b463b1d *man/style.auto.Rd
+6e5235373b1ed6af22475a9ad8549307 *man/style.palette.Rd
+7bb7d598fced56f4b2534a61a0ded8e5 *man/xterm.pal.Rd
+37a6a5c1a513563f59b3b2c87ab6c69c *man/xterm256.to.ANSI.Rd
